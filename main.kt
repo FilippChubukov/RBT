@@ -1,7 +1,4 @@
-
-
-
- fun main(args: Array<String>) {
+fun main(args: Array<String>) {
     val rbt = Tree<Int, Char>()
 
     while (true) {
